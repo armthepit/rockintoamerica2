@@ -1,0 +1,32 @@
+body {
+    background: #ffffff;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: normal;
+    color: #000000;
+}
+
+a:link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #376db4;
+}
+
+a:visited {
+    text-decoration: none;
+    font-weight: bold;
+    color: #376db4;
+}
+
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #376db4;
+    color: #ffffff;
+}
+
+a:active {
+    text-decoration: none;
+    font-weight: bold;
+    color: #376db4;
+}
