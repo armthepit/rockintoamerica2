@@ -5,4 +5,4 @@
 	<!-- Latest Font Awesome -->
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	<!-- Custom CSS -->
-	<link rel="stylesheet" href="assets/css/style.css" media="screen">
+	<link rel="stylesheet" href="http://www.rockintoamerica.com/assets/css/style.css" media="screen">

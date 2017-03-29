@@ -13,8 +13,8 @@
         </div>
         <div class="collapse navbar-collapse" id="example-navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="contactus.php">Contact Us</a></li>
+                <li><a href="http://www.rockintoamerica.com/index.php">Home</a></li>
+                <li><a href="http://www.rockintoamerica.com/contactus.php">Contact Us</a></li>
             </ul>
         </div>
     </nav>

@@ -3,7 +3,7 @@
 
 <head>
     <title>Rockin To America - Genre List</title>
-    <?php include_once("includes/style.php");?>
+    <?php include("includes/style.php");?>
 </head>
 
 <body>
