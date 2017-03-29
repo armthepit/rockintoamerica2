@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<meta charset="utf-8">
-	<title></title>
-	<link rel="stylesheet" href="">
+    <title>Rockin To America - Artist List</title>
+    <?php include_once("includes/style.php");?>
 </head>
+
 <body>
-	
+    <?php include_once("includes/header.php");?>
+    <?php include_once("includes/navigation.php");?>
+    <div class="content">
+        test
+    </div>
+    <?php include_once("includes/footer.php");?>
+    <?php include("includes/js.php");?>
 </body>
+
 </html>
